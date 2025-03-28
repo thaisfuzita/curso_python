@@ -1,4 +1,4 @@
-nome = 'Thaís'
+nome = 'Henrique'
 sobrenome = 'Fuzita'
 idade = 27
 ano_nascimento = 2025 - idade 
